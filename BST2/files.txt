@@ -1,0 +1,5 @@
+/docs/plan.pdf
+/docs/notas.txt
+/img/logo.png
+/img/fotos/viaje.jpg
+README.md
